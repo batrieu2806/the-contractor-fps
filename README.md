@@ -25,5 +25,7 @@ It demonstrates grid-based placement, stacking, and item management.
 
 ## 3D Models (Blender)
 This project also includes FPS-ready models created in Blender.  
-- 🔫 MP5 Model – [View Screenshot](./Asset/Glock Model.png)  
-- 🔫 GLOCK Crate – [View Screenshot](./Asset/MP5 Model.png)  
+- 🔫 MP5 Model – [View Screenshot](./Asset/MP5%20Model.png)  
+- 🪖 Glock Model – [View Screenshot](./Asset/Glock%20Model.png)  
+- 🔫 MP5 Wireframe – [View Screenshot](./Asset/MP5%20Model%20WireFrame.png)  
+- 🪖 Glock Wireframe – [View Screenshot](./Asset/Glock%20WireFrame.png)  
