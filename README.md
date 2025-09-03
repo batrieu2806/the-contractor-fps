@@ -22,3 +22,8 @@ Focus: gameplay feel, modular systems, and real-time mechanics.
 This folder contains a simplified version of the modular inventory system used in *The Contractor*.  
 It demonstrates grid-based placement, stacking, and item management.
 📂 [Inventory System Sample](./InventorySystem/)
+
+## 3D Models (Blender)
+This project also includes FPS-ready models created in Blender.  
+- 🔫 MP5 Model – [View Screenshot](./Asset/Glock Model.png)  
+- 🔫 GLOCK Crate – [View Screenshot](./Asset/MP5 Model.png)  
