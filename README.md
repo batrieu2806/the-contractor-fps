@@ -10,8 +10,8 @@ Focus: gameplay feel, modular systems, and real-time mechanics.
 - Varied AI to with high damage bursts to encourage the use of cover and tactical gameplay
 
 ## Demo
-- 🎥 [Gameplay Video](www.youtube.com/watch?v=jLYxR3gwzpU&feature=youtu.be)
-- 🎮 [Play on Roblox](www.youtube.com/watch?v=jLYxR3gwzpU&feature=youtu.be)
+- 🎥 [Gameplay Video](https://www.youtube.com/watch?v=jLYxR3gwzpU&feature=youtu.be)
+- 🎮 [Play on Roblox](https://www.roblox.com/games/14246730275/V2-TRIEU-RPG)
 
 ## Tech
 - Lua (OOP)
